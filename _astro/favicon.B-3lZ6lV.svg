@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="3DPrint-RLP icon">
+  <defs>
+    <linearGradient id="mark-bg" x1="96" y1="56" x2="416" y2="456" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2f8cff" />
+      <stop offset="1" stop-color="#0161ef" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="104" fill="url(#mark-bg)" />
+  <path
+    d="M256 111 133 179l123 69 123-69-123-68Z"
+    fill="none"
+    stroke="#fff"
+    stroke-width="34"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M133 179v126l123 69 123-69V179"
+    fill="none"
+    stroke="#fff"
+    stroke-width="34"
+    stroke-linejoin="round"
+  />
+  <path d="M256 248v126" fill="none" stroke="#fff" stroke-width="34" stroke-linecap="round" />
+  <path d="M154 397h204" fill="none" stroke="#dbeafe" stroke-width="28" stroke-linecap="round" />
+  <path d="M190 443h132" fill="none" stroke="#bfdbfe" stroke-width="28" stroke-linecap="round" />
+</svg>
